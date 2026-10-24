@@ -1,0 +1,5 @@
+streamlit #做網頁
+pandas #處理資料
+openpyxl #讀和輸出檔案
+
+#python -m pip install -r requirements.txt 之後可以一次安裝
