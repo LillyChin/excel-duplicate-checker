@@ -1,4 +1,4 @@
-Excel重複資料檢查工具
+Excel重複資料檢查工具 https://excel-duplicate-checker-qvkr5hzlwpjfzm2zee6kbs.streamlit.app/
 
 1. 上傳需要檢查的Excel檔
 2. 預覽原始表格資料
